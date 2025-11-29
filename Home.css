@@ -43,6 +43,12 @@ animation-iteration-count: infinite;
 }
 @keyframes c{0%{opacity: 0;}50%{color:orangered;}100%{opacity: 1;}}
 
+.noodecolor{
+  max-width: 100%;
+  height: auto;
+  min-width: 588px;
+  overflow-x: hidden;
+}
 #c :hover{color: orange; cursor: pointer;}
 
 #carouselExampleAutoplaying{
@@ -496,4 +502,5 @@ margin-top: 60px;
 /*Home4*/
 .Hone4{
   background-image: url(img/—Pngtree—blackboard\ texture\ black\ background_3578716.png);
+
 }
